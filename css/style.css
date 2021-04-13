@@ -1,0 +1,94 @@
+html{
+background-image: url('./bk.jpg');
+background-size: cover;
+background-repeat: no-repeat;
+color: #fff;
+}
+header{
+    font-family: 'Indie Flower', cursive;
+    background-color: #00000096;
+    color: #fff;
+    text-align: center;
+  
+    height: 53px;
+    padding-top: 15px;
+
+}
+header h1{
+    font-size: xx-large;
+    
+    height: 53px;
+    padding-top: 15px;
+    position: relative;
+    bottom: 15px;
+
+
+}
+#forForm{
+    float: left;
+    background:#00000096;
+}
+#forTable{
+    float: right;
+    background:#00000096;
+    
+    padding-top: 50px;
+    padding-left: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+    
+    margin-right: 41px;
+    margin-top: 26px;
+
+
+}
+#form > fieldset > input[type=submit]:nth-child(19){
+    
+    width: 173px;
+
+}
+main{
+    
+    margin-left: 182px;
+    margin-top: 54px;
+    margin-right: 131px;
+
+}
+fieldset{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-top: 0px;
+    padding-bottom: 50px;
+    margin-top: 20px;
+
+}
+td,th,tr{
+    width: fit-content;
+    height: fit-content;
+    padding-right: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: #fff 2px solid;
+   
+    
+}
+table{
+    border: #fff  2px   solid;
+    border-bottom: 0;
+}
+
+
+#forTable > p{
+    width: 100px;
+    text-align: center;
+    border: #fff 2px solid;
+    padding-top: 10px;
+    border-left-width: 10px;
+    
+    margin-top: 23px;
+    border-left-width: 2px;
+    padding-bottom: 10px;
+
+
+}
